@@ -1,1 +1,2 @@
-# Relaxed-Trust-Region-Methods
+This repository contains code for implementing the Relaxed trust region algorithm in the large scale setting. The repository contains the main algorthims which take as input the problem, its gradient and initial point, and parameters, and outputs estimates of the optima.
+For details see our paper: Ataee Tarzanagh, D., Peyghami, M. Reza, Mesgharani, H.: A new nonmonotone trust region method for unconstrained optimization equipped by an efficient adaptive radius, Optimization Methods & Software, 29(4) (2014):819–836.
